@@ -1,0 +1,56 @@
+- title: 开始使用
+  docs:
+  - startup/index
+  - startup/environment
+  - startup/install
+  - startup/quickstart
+  - startup/entrance_file
+  - startup/directory_structure
+  - startup/develop_standard
+  
+- title: 配置
+  docs:
+  - config/index
+  - config/application_config
+  - config/get_config
+  - config/set_config
+  - config/environment
+
+
+- title: 路由
+  docs:
+  - route/index
+  - route/config_type
+  - route/config_format
+  - route/route_param
+  - route/route_middleware
+  
+- title: 控制器
+  docs:
+  - controller/index
+  - controller/method_type
+  - controller/param_type
+  - controller/return_type
+  - controller/group
+
+- title: 视图
+  docs:
+  - view/index
+  - view/tpl_output
+  - view/tpl_tags
+  - view/tpl_comment
+  - view/custom_tags
+
+- title: 模型
+  url: model/index
+ 
+- title: 高级特性
+  docs:
+  - advance/middleware
+  - advance/container
+  - advance/ioc
+  - advance/command
+  - advance/swoole
+
+- title: 常见问题
+  url: fqa
